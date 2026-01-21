@@ -1,4 +1,4 @@
-# 🌟 AI for Star Viewing
+# 🌟 AI Skyline Visibility Map
 
 A comprehensive machine learning project for predicting sky visibility and finding optimal stargazing locations. This project combines astronomical observation data, light pollution analysis, real-time weather data, and ML models to help astronomers and stargazers plan their observations.
 
